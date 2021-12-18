@@ -1,0 +1,1 @@
+This project is developed by using Python and Framework as Django and Rest. Django REST framework is a powerful and flexible toolkit for building Web APIs. Employee management project is developed to do CRUD operations on employee table where sql database SQLite is used.
